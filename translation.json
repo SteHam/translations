@@ -1,0 +1,15 @@
+{
+    "languages": {
+        "de": "Deutsch",
+        "en": "Englisch"
+    },
+    "header":{
+        "heading": "Das ist die Überschrift in der Sprache ",
+        "header-text": "Für viele Berufe ist es von Vorteil, eine Zeitlang im Ausland zu studieren oder sogar zu arbeiten. Manchmal ist es nicht einfach, einen Platz zu finden, aber es gibt schon seit geraumer Zeit Organisationen, die sich auf die internationale Vermittlung von Arbeitnehmern spezialisiert haben.",
+        "change-language": "Sprache ändern"
+    },
+    "main-content": {
+        "main-heading": "Hier steht der Inhalt der Webseite",
+        "content-text": "Hier steht drinnen, um was es bei dieser Webseite eigentlich geht. Das ist nämlich eine gute Frage, ich denke die Webseite weiß das selbst nicht."
+    }
+}
